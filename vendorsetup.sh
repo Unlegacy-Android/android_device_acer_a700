@@ -1,1 +1,1 @@
-add_lunch_combo omni_a700-userdebug
+add_lunch_combo aosp_a700-userdebug

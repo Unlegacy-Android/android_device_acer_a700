@@ -7,5 +7,3 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/acer/a700/bluetooth
 
 # Inherit from t30-common
 include device/acer/t30-common/BoardConfigCommon.mk
-
-DEVICE_RESOLUTION := 1920x1200
